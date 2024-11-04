@@ -17,16 +17,14 @@ month_days = {
 month = int(input("Please enter the month number: "))
 
 if month == 2:
-    leapyear = input("is your year a lleap year?, yes or no: ")
-    while True:
-        if leapyear == "yes":
-            month_days[2] = 28
-            break
-        elif leapyear == "no":
-            month_days[2] = 29
-            break
-        else:
-            leapyear = input("Invalid input. Please enter only 'yes' or 'no': ")
+    leapyear = input('is it a leap year: ')
+
+    if leapyear == 'yes':
+        month_days[2] = 28
+    elif leapyear == 'no':
+        month_days[2] = 29
+    else:
+        leapyear = input('invalid input, please type yes or no: ')
 
 # nigger
 if month < 1 or month > 12:
