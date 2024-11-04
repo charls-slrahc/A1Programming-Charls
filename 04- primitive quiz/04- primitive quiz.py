@@ -6,6 +6,7 @@ if ans1.lower() == "paris":
     print("Your answer is correct")
 else : 
     print("Your answer is incrorrect")
+    print ("\n")
     
 #2
 print("what is the capital of Germany? ")
@@ -15,6 +16,7 @@ if ans2.lower() == "berlin":
     print("Your answer is correct")
 else : 
     print("Your answer is incrorrect")
+    print ("\n")
 
 #3
 print("what is the capital of Spain? ")
@@ -24,6 +26,7 @@ if ans3.lower() == "madrid":
     print("Your answer is correct")
 else : 
     print("Your answer is incrorrect")
+    print ("\n")
 
 #4
 print("what is the capital of Italy? ")
@@ -33,6 +36,7 @@ if ans4.lower() == "rome":
     print("Your answer is correct")
 else : 
     print("Your answer is incrorrect")
+    print ("\n")
 
 #5
 print("what is the capital of United Kingdom? ")
@@ -42,6 +46,7 @@ if ans5.lower() == "london":
     print("Your answer is correct")
 else : 
     print("Your answer is incrorrect")
+    print ("\n")
 
 #6
 print("what is the capital of Netherlands? ")
@@ -51,6 +56,7 @@ if ans6.lower() == "amsterdam":
     print("Your answer is correct")
 else : 
     print("Your answer is incrorrect")
+    print ("\n")
 
 #7
 print("what is the capital of Sweden? ")
@@ -60,6 +66,7 @@ if ans7.lower() == "stockholm":
     print("Your answer is correct")
 else : 
     print("Your answer is incrorrect")
+    print ("\n")
 
 #8
 print("what is the capital of Greece? ")
@@ -69,6 +76,7 @@ if ans8.lower() == "athens":
     print("Your answer is correct")
 else : 
     print("Your answer is incrorrect")
+    print ("\n")
 
 #9
 print("what is the capital of Portugal? ")
@@ -78,6 +86,7 @@ if ans9.lower() == "lisbon":
     print("Your answer is correct")
 else : 
     print("Your answer is incrorrect")
+    print ("\n")
 
 #10
 print("what is the capital of Austria? ")
@@ -87,3 +96,4 @@ if ans10.lower() == "vienna":
     print("Your answer is correct")
 else : 
     print("Your answer is incrorrect")
+    print ("\n")
