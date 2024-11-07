@@ -14,7 +14,7 @@ while attempts < max_attempts:
         attempts += 1 
         remaining_attempts = max_attempts - attempts
         if remaining_attempts > 0:
-            print(f"Access denied, you have {remaming_attempts} attempts remaining.")
+            print(f"Access denied, you have {remaining_attempts} attempts remaining.")
         else:
             print("inncorrect password. Maximum attempts reached. Please try again later. ")
         

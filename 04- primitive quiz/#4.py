@@ -4,6 +4,7 @@ ans1 = input("Enter your answer: ")
 
 if ans1.lower() == "paris":
     print("Your answer is correct")
+    print ("\n")
 else : 
     print("Your answer is incrorrect")
     print ("\n")
@@ -14,6 +15,7 @@ ans2 = input("Enter your answer: ")
 
 if ans2.lower() == "berlin":
     print("Your answer is correct")
+    print ("\n")
 else : 
     print("Your answer is incrorrect")
     print ("\n")
@@ -24,6 +26,7 @@ ans3 = input("Enter your answer: ")
 
 if ans3.lower() == "madrid":
     print("Your answer is correct")
+    print ("\n")
 else : 
     print("Your answer is incrorrect")
     print ("\n")
@@ -34,6 +37,7 @@ ans4 = input("Enter your answer: ")
 
 if ans4.lower() == "rome":
     print("Your answer is correct")
+    print ("\n")
 else : 
     print("Your answer is incrorrect")
     print ("\n")
@@ -44,6 +48,7 @@ ans5 = input("Enter your answer: ")
 
 if ans5.lower() == "london":
     print("Your answer is correct")
+    print ("\n")
 else : 
     print("Your answer is incrorrect")
     print ("\n")
@@ -54,6 +59,7 @@ ans6 = input("Enter your answer: ")
 
 if ans6.lower() == "amsterdam":
     print("Your answer is correct")
+    print ("\n")
 else : 
     print("Your answer is incrorrect")
     print ("\n")
@@ -64,6 +70,7 @@ ans7 = input("Enter your answer: ")
 
 if ans7.lower() == "stockholm":
     print("Your answer is correct")
+    print ("\n")
 else : 
     print("Your answer is incrorrect")
     print ("\n")
@@ -74,6 +81,7 @@ ans8 = input("Enter your answer: ")
 
 if ans8.lower() == "athens":
     print("Your answer is correct")
+    print ("\n")
 else : 
     print("Your answer is incrorrect")
     print ("\n")
@@ -84,6 +92,7 @@ ans9 = input("Enter your answer: ")
 
 if ans9.lower() == "lisbon":
     print("Your answer is correct")
+    print ("\n")
 else : 
     print("Your answer is incrorrect")
     print ("\n")
@@ -94,6 +103,7 @@ ans10 = input("Enter your answer: ")
 
 if ans10.lower() == "vienna":
     print("Your answer is correct")
+    print ("\n")
 else : 
     print("Your answer is incrorrect")
     print ("\n")
